@@ -1,0 +1,9 @@
+{
+  "name": "CMSS Smart SMS",
+  "description": "A comprehensive, cloud-based school management system for CASWA Model Science School, featuring AI-powered tools for teachers and administrators.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
